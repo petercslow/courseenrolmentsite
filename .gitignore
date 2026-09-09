@@ -1,0 +1,19 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+.env.*
+*.pem
+*.key
+credentials*.json
+
+# Tooling (in case build tooling is introduced later)
+node_modules/
+dist/
+build/
